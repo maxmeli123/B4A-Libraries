@@ -1,2 +1,1 @@
-# B4A-Libraries
-This repository contain a set of libraries for B4A Rapid Application Development tool.
+A Minimalistic slider that can do slider or progress bar
