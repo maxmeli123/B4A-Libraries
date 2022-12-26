@@ -1,1 +1,1 @@
-A Minimalistic slider that can do slider or progress bar
+This repository contain a set of B4A libraries developed on Eclipse enviroment.
